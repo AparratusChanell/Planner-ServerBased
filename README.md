@@ -19,20 +19,20 @@
 
 > Home Screen(Default)
 
-<img src = "https://i.imgur.com/Hf2nWQv.png" height = "80%" width = "80%" alt = "Home Screen">
+<img src = "https://i.imgur.com/Hf2nWQv.png" height = "50%" width = "50%" alt = "Home Screen">
 
 > Data Populated Home Screen
 
-<img src = "https://i.imgur.com/nLH6TAS.png" height = "80%" width = "80%" alt = "Home Screen with Data">
+<img src = "https://i.imgur.com/nLH6TAS.png" height = "50%" width = "50%" alt = "Home Screen with Data">
 
 > Schedules Screen
 
-<img src = "https://i.imgur.com/IzGZmTR.png" height = "80%" width = "80%" alt = "Schedules Screen">
+<img src = "https://i.imgur.com/IzGZmTR.png" height = "50%" width = "50%" alt = "Schedules Screen">
 
 > Statistics Screen
 
-<img src = "https://i.imgur.com/wSdjU61.png" height = "80%" width = "80%" alt = "Statistics Screen">
+<img src = "https://i.imgur.com/wSdjU61.png" height = "50%" width = "50%" alt = "Statistics Screen">
 
 > Statistics Screen: Monthly Record
 
-<img src = "https://i.imgur.com/wbxY4wA.png" height = "80%" width = "80%" alt = "Statistics Monthly Record Screen">
+<img src = "https://i.imgur.com/wbxY4wA.png" height = "50%" width = "50%" alt = "Statistics Monthly Record Screen">
